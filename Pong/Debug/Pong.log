@@ -1,0 +1,21 @@
+﻿  win32_platform.cpp
+D:\Programming\C++\Pong\Pong\renderer.cpp(47,9): warning C4244: 'initializing': conversion from 'float' to 's32', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+D:\Programming\C++\Pong\Pong\renderer.cpp(48,9): warning C4244: 'initializing': conversion from 'float' to 's32', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+D:\Programming\C++\Pong\Pong\renderer.cpp(49,9): warning C4244: 'initializing': conversion from 'float' to 's32', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+D:\Programming\C++\Pong\Pong\renderer.cpp(50,9): warning C4244: 'initializing': conversion from 'float' to 's32', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+D:\Programming\C++\Pong\Pong\game.cpp(108,20): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'win32_platform.cpp')
+  
+D:\Programming\C++\Pong\Pong\game.cpp(115,20): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'win32_platform.cpp')
+  
+D:\Programming\C++\Pong\Pong\win32_platform.cpp(65,5): warning C4007: 'WinMain': must be '__stdcall'
+  Pong.vcxproj -> D:\Programming\C++\Pong\Debug\Pong.exe
